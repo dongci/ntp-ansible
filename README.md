@@ -1,6 +1,6 @@
 CentOS 7 Install NTP Server
 
-1> yum install ansible -y
+1> yum install ansible git -y
 
 2> cd /etc/ansible/ && git clone https://github.com/dongci/ntp-ansible.git
 
